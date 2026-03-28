@@ -1,4 +1,5 @@
 """
+Prompt: Explain how testing code improves your written code
 Testing code is beneficial in many ways. 
 It helps improve the code by making it not only more clear, but also more reliable and easier to maintain. 
 Testing basically forces you to think about what might go wrong. 
